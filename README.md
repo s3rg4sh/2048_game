@@ -1,4 +1,2 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+This project is a copy of the well-known game 2048, which can be played right on the page. The game has a scoring system, and you can restart the game if you fail to win. There is also a smooth animation that improves the user experience. The game was developed using JavaScript as well as HTML and CSS with SASS preprocessor to create and design the page.
+    - [DEMO LINK](https://s3rg4sh.github.io/2048_game/)
